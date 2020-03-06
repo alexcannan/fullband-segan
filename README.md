@@ -1,4 +1,4 @@
-# 44100 Fork of SEGAN
+# Fullband fork of SEGAN
 
 This fork will contain a modified segan that is designed for 16-bit 44100 Hz audio.
 
