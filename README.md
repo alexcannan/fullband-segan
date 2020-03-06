@@ -1,3 +1,15 @@
+# 44100 Fork of SEGAN
+
+This fork will contain a modified segan that is designed for 16-bit 44100 Hz audio.
+
+### Planned work:
+
+- Rewrite tensorflow references for tf 2.0
+- Grok model and add adjustments to train with audio sampled at 44100
+
+
+# Original README
+
 ## SEGAN: Speech Enhancement Generative Adversarial Network
 
 ### Introduction
